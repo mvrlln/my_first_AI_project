@@ -1,4 +1,4 @@
-## Smart Closet
+# Smart Closet
 
 Final project for the Building AI course
 
